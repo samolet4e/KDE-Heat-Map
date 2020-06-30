@@ -5,3 +5,5 @@ A good article on the topic might be found here:
 https://www.researchgate.net/publication/328785939_Kernel_density_estimation_and_its_application
 
 The result could be watched here:
+
+https://youtu.be/7XbZWsa5_4g
