@@ -6,4 +6,4 @@ https://www.researchgate.net/publication/328785939_Kernel_density_estimation_and
 
 The result could be watched here:
 
-https://youtu.be/7XbZWsa5_4g
+https://youtu.be/oFwjfIfTHT8
